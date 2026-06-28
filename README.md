@@ -26,7 +26,7 @@ Atualmente participo de projetos de ensino, extensão e formação docente, dese
 
 Construir uma carreira que una desenvolvimento de software, educação e tecnologia, criando experiências de aprendizagem inovadoras e acessíveis.
 
-                    #"Eu quero ver o que acontece se eu não desistir." 
+                    "Eu quero ver o que acontece se eu não desistir." 
 
                     
 ## 🚀 Tecnologias
@@ -51,10 +51,29 @@ Robótica Educacional
 Pensamento Computacional
 Metodologias Ativas
 
-Se a excelência é o seu objetivo, a prática é a chave para a maestria. 🚀 
 
-<div class="tenor-gif-embed" data-postid="14822715853869617538" data-share-method="host" data-aspect-ratio="1.19712" data-width="100%"><a href="https://tenor.com/view/click-tap-gif-14822715853869617538">Click Tap Sticker</a>from <a href="https://tenor.com/search/click-stickers">Click Stickers</a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div
+  class="tenor-gif-embed"
+  data-postid="14822715853869617538"
+  data-share-method="host"
+  data-aspect-ratio="1.19712"
+  data-width="100%"
+>
+  <a href="https://tenor.com/view/click-tap-gif-14822715853869617538">
+    Click Tap Sticker
+  </a>
+  from
+  <a href="https://tenor.com/search/click-stickers">
+    Click Stickers
+  </a>
+</div>
+
+<script
+  type="text/javascript"
+  async
+  src="https://tenor.com/embed.js"
+></script>
 
 ## Contatos:
 
