@@ -52,13 +52,17 @@ Pensamento Computacional
 Metodologias Ativas
 
 
-
-<a href="https://www.instagram.com/proff.tamyris/" target="_blank">
-    <img
-        src="SEU_GIF.gif"
-        alt="Clique aqui"
-        style="width:100%; max-width:300px; cursor:pointer;">
+<a href="https://seusite.com" target="_blank">
+  <div
+    class="tenor-gif-embed"
+    data-postid="14822715853869617538"
+    data-share-method="host"
+    data-aspect-ratio="1.19712"
+    data-width="100%">
+  </div>
 </a>
+
+<script async src="https://tenor.com/embed.js"></script>
 
 ## Contatos:
 
