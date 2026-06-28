@@ -1,29 +1,59 @@
-### Olá, eu sou Tamyris Rodrigues 👋
+###   Olá, eu sou Tamyris Rodrigues 👋
 
-Sou estudante de Computação na Universidade Federal do Paraná desde 2024 e comecei minha jornada na programação de forma autodidata em 2023. Estou focada no desenvolvimento front-end, aprendendo HTML, CSS e JavaScript.
+  🎓 Licencianda em Computação na Universidade Federal do Paraná (UFPR).
 
+Acredito na educação como ferramenta de transformação social e busco unir tecnologia, inovação e metodologias ativas para tornar a aprendizagem mais significativa.
 
-- 🔭 Atualmente em busca da primeira oportunidade na programação
-- 🖥  Estudando HTML, CSS e JS
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: atleta de futsal ⚽
+Atualmente participo de projetos de ensino, extensão e formação docente, desenvolvendo soluções educacionais e materiais digitais que aproximam a Computação da realidade dos estudantes.
 
   
-## Aprendendo          
-           
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-##
-<div align="center">
-  <a href="https://github.com/Tamyrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamyrodrigues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 💚 Sobre mim
+  🎓 Licenciatura em Computação – UFPR
+  👩🏽‍🏫 Bolsista do PIBID
+  💻 Desenvolvedora Front-end
+  📚 Apaixonada por Tecnologia Educacional
+  🧠 Interesse em Pensamento Computacional e Inclusão Digital
+  🚀 Sempre aprendendo novas tecnologias e metodologias de ensino
+  
+## 📌 Projetos em destaque
+  🛰️ Missão GPS – Jogo pedagógico sobre algoritmos e localização espacial
+  💚 Oficina Digital Sem Medo
+  📖 Materiais Didáticos para o Ensino de Computação
+  🌱 Projetos desenvolvidos no PIBID
+  💻 Landing Pages e Portfólios Responsivos
+  
+## 🌎 Objetivo
 
+Construir uma carreira que una desenvolvimento de software, educação e tecnologia, criando experiências de aprendizagem inovadoras e acessíveis.
 
-## 
+                    #"Eu quero ver o que acontece se eu não desistir." 
+
+                    
+## 🚀 Tecnologias
+Front-end
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Vite
+Tailwind CSS
+Ferramentas
+Git
+GitHub
+VS Code
+Figma
+Canva
+Educação
+Scratch
+Arduino
+Robótica Educacional
+Pensamento Computacional
+Metodologias Ativas
+
 Se a excelência é o seu objetivo, a prática é a chave para a maestria. 🚀 
 <div >
-  <img align="center" height="200" width="200" src="https://tenor.com/pt-BR/view/laptop-gif-26065252.gif">
+  <img align="center" height="200" width="200" src="<div class="tenor-gif-embed" data-postid="14822715853869617538" data-share-method="host" data-aspect-ratio="1.19712" data-width="100%"><a href="https://tenor.com/view/click-tap-gif-14822715853869617538">Click Tap Sticker</a>from <a href="https://tenor.com/search/click-stickers">Click Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 </div>
  
 
