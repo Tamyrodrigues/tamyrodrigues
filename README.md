@@ -52,14 +52,12 @@ Pensamento Computacional
 Metodologias Ativas
 
 Se a excelência é o seu objetivo, a prática é a chave para a maestria. 🚀 
-<div >
-  <img align="center" height="200" width="200" src="<div class="tenor-gif-embed" data-postid="14822715853869617538" data-share-method="host" data-aspect-ratio="1.19712" data-width="100%"><a href="https://tenor.com/view/click-tap-gif-14822715853869617538">Click Tap Sticker</a>from <a href="https://tenor.com/search/click-stickers">Click Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
-</div>
- 
+
+<div class="tenor-gif-embed" data-postid="14822715853869617538" data-share-method="host" data-aspect-ratio="1.19712" data-width="100%"><a href="https://tenor.com/view/click-tap-gif-14822715853869617538">Click Tap Sticker</a>from <a href="https://tenor.com/search/click-stickers">Click Stickers</a></div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Contatos:
 
- 
 <div> 
   <a href="https://instagram.com/rodrigues13__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rodrigues__14" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
