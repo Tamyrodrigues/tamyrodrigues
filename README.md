@@ -53,27 +53,12 @@ Metodologias Ativas
 
 
 
-<div
-  class="tenor-gif-embed"
-  data-postid="14822715853869617538"
-  data-share-method="host"
-  data-aspect-ratio="1.19712"
-  data-width="100%"
->
-  <a href="https://tenor.com/view/click-tap-gif-14822715853869617538">
-    Click Tap Sticker
-  </a>
-  from
-  <a href="https://tenor.com/search/click-stickers">
-    Click Stickers
-  </a>
-</div>
-
-<script
-  type="text/javascript"
-  async
-  src="https://tenor.com/embed.js"
-></script>
+<a href="https://www.instagram.com/proff.tamyris/" target="_blank">
+    <img
+        src="SEU_GIF.gif"
+        alt="Clique aqui"
+        style="width:100%; max-width:300px; cursor:pointer;">
+</a>
 
 ## Contatos:
 
